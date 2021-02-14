@@ -1,8 +1,7 @@
 diff --git a/frameworks/base/packages/SettingsProvider/res/values/defaults.xml b/frameworks/base/packages/SettingsProvider/res/values/defaults.xml
-index 05246a4..11baaf5 100644
 --- a/frameworks/base/packages/SettingsProvider/res/values/defaults.xml
 +++ b/frameworks/base/packages/SettingsProvider/res/values/defaults.xml
-@@ -51,8 +51,8 @@
+@@ -50,8 +50,8 @@
      <bool name="def_wifi_wakeup_enabled">true</bool>
      <bool name="def_networks_available_notification_on">true</bool>
  
